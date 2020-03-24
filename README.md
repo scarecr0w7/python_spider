@@ -13,3 +13,4 @@
 + [简书全站文章爬取](https://github.com/liangzhuz/jianshucode)
 + [观察者网站首页新闻爬取](https://github.com/liangzhuz/python_spider/tree/master/guanchazhe)
 + [淘宝模拟登陆](https://github.com/liangzhuz/python_spider/tree/master/login_taobao)
++ [淘宝搜索商品信息爬取]()
