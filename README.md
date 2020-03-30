@@ -16,4 +16,4 @@
   + [淘宝模拟登陆](https://github.com/liangzhuz/python_spider/tree/master/login_taobao)
   + [淘宝搜索商品信息爬取](https://github.com/liangzhuz/python_spider/tree/master/taobao_search_commodity_info)
 + 知乎
-  + [知乎问题回答信息爬取]()
+  + [知乎问题回答信息爬取](https://github.com/liangzhuz/python_spider/tree/master/zhihu)
