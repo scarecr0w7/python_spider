@@ -1,4 +1,4 @@
-# 淘宝搜索商品信息爬取
+淘宝搜索商品信息爬取并可视展示
 
 ### taobao_login.py
 
@@ -18,3 +18,15 @@
 
 commodity_name需要爬取的商品名称
 
+## data_analysis.py
+
+对爬取到的数据进行可视化展示，输出到``render.html``查看
+
++ 店铺位置分布图
++ 销量前15店铺饼状图
++ 价格区间柱状图
++ 产品数量前15店铺柱状图
+
+#### 效果
+
+![3](G:\project\python_spider\taobao_search_commodity_info\img\3.png)![2](G:\project\python_spider\taobao_search_commodity_info\img\2.png)![4](G:\project\python_spider\taobao_search_commodity_info\img\4.png)![1](G:\project\python_spider\taobao_search_commodity_info\img\1.png)
