@@ -2,11 +2,9 @@
 
 #### 功能
 
-​		通过单个视频分享链接下载抖音无水印视频
+​		通过视频分享链接下载抖音无水印视频可输入单个链接，也可输入多个链接。
+​        单个链接示例：https://v.douyin.com/JeUKHSf/
+​        多个链接示例：https://v.douyin.com/JeUKHSf/，https://v.douyin.com/JeUKHSf/，https://v.douyin.com/JeUKHSf/
 
-​		分享链接例：https://v.douyin.com/JeFMQ88/
 
-#### 待实现功能
-
-​		批量下载某个用户的所有视频
 
