@@ -8,9 +8,9 @@
 ## 目录
 
 + Scrapy-Redis
-  + [房天下新房二手房redis分布式爬虫](https://github.com/liangzhuz/fangtianxia_redis)
+  + [房天下新房二手房redis分布式爬虫](https://github.com/scarecr0w7/python_spider/tree/master/fangtianxia_redis)
 + Scrapy
-  + [简书全站文章爬取](https://github.com/liangzhuz/jianshucode)
+  + [简书全站文章爬取](https://github.com/scarecr0w7/python_spider/tree/master/jianshucode)
 + 淘宝
   + [淘宝模拟登陆](https://github.com/liangzhuz/python_spider/tree/master/login_taobao)
   + [淘宝搜索商品信息爬取及可视化展示](https://github.com/liangzhuz/python_spider/tree/master/taobao_search_commodity_info)
